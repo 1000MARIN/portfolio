@@ -16,12 +16,12 @@
 
 ## :pushpin: Projects
 ### 1. [PorscheMania](https://github.com/Integerous/goQuality)
->포르쉐 매니아 커뮤티치 (개인 프로젝트)  
+>포르쉐 매니아 커뮤니티 (개인 프로젝트)  
 >개발 기간: 2021.8.10 ~ 2019.9.17  
 >  
 >기술 스택:  
->Java 8 /
->MySQL /
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
+>H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/1000MARIN/porscheMania) 참고
 
