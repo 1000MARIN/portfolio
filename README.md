@@ -15,8 +15,8 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [PorscheMania](https://github.com/Integerous/goQuality)
->취미 커뮤니티  (개인 프로젝트)  
+### 1. PorscheMania
+>취미 커뮤니티 게시판 (개인 프로젝트)  
 >개발 기간: 2021.8.10 ~ 2021.9.17  
 >  
 >기술 스택:  
@@ -26,16 +26,3 @@
 >[프로젝트 상세 설명](https://github.com/1000MARIN/porscheMania) 참고
 
 ---
-
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
-
----
-
