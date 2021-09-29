@@ -10,7 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: leexjin@gmail.com
-- 깃헙: https://github.com/integerous
+- 깃헙: https://github.com/1000MARIN
 
 </br>
 
