@@ -6,7 +6,6 @@
 ## :pushpin: Intro
 ![IMG_8612](https://user-images.githubusercontent.com/84886987/135206119-3f1cd79b-1eb4-4451-b58a-9153d56be53c.png)
 
-
 </br>
 
 ## :pushpin: Contact
