@@ -17,7 +17,7 @@
 
 ## :pushpin: Projects
 ### 1. [PorscheMania](https://github.com/Integerous/goQuality)
->포르쉐 매니아 커뮤니티 (개인 프로젝트)  
+>취미 커뮤니티  (개인 프로젝트)  
 >개발 기간: 2021.8.10 ~ 2019.9.17  
 >  
 >기술 스택:  
