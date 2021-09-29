@@ -20,8 +20,8 @@
 >개발 기간: 2021.8.10 ~ 2021.9.17  
 >  
 >기술 스택:  
->Java 8 / JSP   
->MySQL / Bootstrap
+>Java 8 / JSP / Junit   
+>MySQL / Bootstrap / jquery
 >  
 >[프로젝트 상세 설명](https://github.com/1000MARIN/porscheMania) 참고
 
