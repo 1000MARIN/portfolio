@@ -47,5 +47,5 @@
 >Java 8  / Java Swing   
 >Oracle   
 >  
->[프로젝트 상세 설명]() 참고
+>[프로젝트 상세 설명](https://github.com/1000MARIN/hotelManagerSystem) 참고
 ---
