@@ -26,3 +26,16 @@
 >[프로젝트 상세 설명](https://github.com/1000MARIN/porscheMania) 참고
 
 ---
+
+<br>
+
+## :pushpin: Projects
+### 1. 여행 커뮤니티
+>여행 커뮤니티 게시판 (팀 프로젝트)  
+>개발 기간: 2021.10.26 ~ 2021.11.11  
+>  
+>기술 스택:  
+>SpringFramework / Java 8  
+>MySQL / Bootstrap / jquery
+>  
+>[프로젝트 상세 설명](https://github.com/1000MARIN/FocusCommunity_211118) 참고
