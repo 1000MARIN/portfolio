@@ -41,11 +41,11 @@
 
 ### 3. 호텔 숙박 관리 프로그램
 >숙박 관리 시스템 프로그램 (개인 프로젝트)  
->개발 기간: 2021.5.3 ~ 2021.5.10  
+>개발 기간: 2021.7.6 ~ 2021.7.14  
 >  
 >기술 스택:  
->Java 8  / Java Swing   
->Oracle   
+>Java 8  
+>Oracle / Java Swing   
 >  
 >[프로젝트 상세 설명](https://github.com/1000MARIN/hotelManagerSystem) 참고
 ---
