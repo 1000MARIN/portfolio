@@ -15,7 +15,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [PorscheMania](https://bit.ly/3ojWVxz)
+### 1. PorscheMania
 >취미 커뮤니티 게시판 (개인 프로젝트)  
 >개발 기간: 2021.8.10 ~ 2021.9.17  
 >  
